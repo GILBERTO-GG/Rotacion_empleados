@@ -1,8 +1,18 @@
-# Rotacion_empleados
-Desarrollo de un modelo predictivo utilizando Regresión Logística y Random Forest para identificar empleados con alto riesgo de abandono en una empresa financiera.
-
-
 # Predicción de Rotación de Empleados en el Sector Financiero: Un Enfoque Basado en Machine Learning
+
+## Tabla de Contenidos
+- [Resumen](#resumen)
+- [Introducción](#introducción)
+- [Problema](#problema)
+- [Propósito del Estudio](#propósito-del-estudio)
+- [Dataset](#dataset)
+  - [Variables Clave](#variables-clave)
+- [Flujo de Trabajo](#flujo-de-trabajo)
+- [Modelos Utilizados](#modelos-utilizados)
+  - [Métricas de Evaluación](#métricas-de-evaluación)
+- [Resultados](#resultados)
+- [Conclusiones](#conclusiones)
+- [Requerimientos](#requerimientos)
 
 ## Resumen
 Este proyecto tiene como objetivo predecir la rotación de empleados en una empresa de servicios financieros utilizando modelos de **Machine Learning** como **Regresión Logística** y **Random Forest**. A través del análisis de datos históricos de empleados, se busca identificar patrones y factores críticos asociados al abandono laboral, permitiendo a la empresa implementar estrategias efectivas de retención y reducir la rotación en un 10% o más.
@@ -75,3 +85,4 @@ El proyecto utiliza el archivo **"Employee Attrition Data.csv"**, disponible en 
 Para ejecutar este proyecto, necesitas las siguientes bibliotecas en Python:
 ```bash
 pip install pandas numpy scikit-learn matplotlib seaborn
+
