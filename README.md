@@ -39,11 +39,16 @@ Desarrollar un modelo predictivo que permita identificar empleados con mayor rie
 - Revisiones salariales.
 - Mejoras en la experiencia laboral.
 
+El objetivo es ayudar a la empresa a reducir la rotación al identificar patrones en el comportamiento de los empleados que puedan predecir quiénes están en riesgo de renunciar.
+De este modo, el proyecto busca proporcionar un valor medible a la empresa a través de una disminución de costos operativos y una mejora en la satisfacción y estabilidad de su fuerza laboral.
+Se va a desarrollar código en Python para la predicción de rotación, se emplearán dos modelos: regresión logística para analizar la relación entre las variables y la probabilidad de rotación, y bosques aleatorios (Random Forests) para evaluar la importancia de diferentes factores y mejorar la precisión del modelo. Los modelos se evaluarán mediante métricas como precisión, sensibilidad y especificidad, permitiendo ajustes y optimización.
+
 ## Dataset
 El proyecto utiliza el archivo **"Employee Attrition Data.csv"**, disponible en Kaggle ([Dataset Link](https://www.kaggle.com/datasets/stealthtechnologies/employee-attrition-dataset?resource=download)).
 
 ### Variables Clave
 - **Edad (Age):** Información sobre las etapas de vida y permanencia laboral.
+- **Género (Gender).
 - **Ingreso Mensual (Monthly Income):** Impacto del salario en la retención.
 - **Satisfacción en el Trabajo (Job Satisfaction):** Indicador del nivel de compromiso.
 - **Horas Extraordinarias (Overtime):** Relación con la carga laboral y el abandono.
@@ -57,6 +62,13 @@ El proyecto utiliza el archivo **"Employee Attrition Data.csv"**, disponible en 
 4. **Desarrollo de Modelos:** Desarrollo de **Regresión Logística** y **Random Forest**.
 5. **Evaluación de Modelos:** Uso de métricas como precisión y curva ROC-AUC.
 6. **Implementación de Estrategias:** Identificación de empleados en riesgo y diseño de estrategias de retención.
+
+### Hipótesis
+
+Factores como el salario mensual, la antigüedad en la empresa, el equilibrio trabajo-vida y la satisfacción laboral son determinantes clave para predecir la rotación de empleados.
+
+![Hipotesis](images/hipotesis.jpg)
+
 
 ### 
 ![Flujo de trabajo](images/flujo.jpg)
