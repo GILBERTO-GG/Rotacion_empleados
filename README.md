@@ -73,6 +73,11 @@ Factores como el salario mensual, la antigüedad en la empresa, el equilibrio tr
 ### 
 ![Flujo de trabajo](images/flujo.jpg)
 
+###Mapeo del Sistema
+El sistema se estructura en un módulo de predicción, que recibe los datos de los empleados y predice la probabilidad de rotación, y un módulo de visualización, que presenta los resultados de manera comprensible para los gerentes de recursos humanos.
+
+
+
 ## Modelos Utilizados
 - **Regresión Logística:** Proporciona interpretabilidad y permite analizar la relación entre variables predictoras y rotación.
 - **Random Forest:** Modelo de ensamble que mejora la precisión y resalta la importancia de las características clave.
