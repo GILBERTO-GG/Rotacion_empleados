@@ -73,7 +73,7 @@ Factores como el salario mensual, la antigüedad en la empresa, el equilibrio tr
 ### 
 ![Flujo de trabajo](images/flujo.jpg)
 
-###Mapeo del Sistema
+### Mapeo del Sistema
 El sistema se estructura en un módulo de predicción, que recibe los datos de los empleados y predice la probabilidad de rotación, y un módulo de visualización, que presenta los resultados de manera comprensible para los gerentes de recursos humanos.
 
 
