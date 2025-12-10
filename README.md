@@ -48,7 +48,7 @@ El proyecto utiliza el archivo **"Employee Attrition Data.csv"**, disponible en 
 
 ### Variables Clave
 - **Edad (Age):** Información sobre las etapas de vida y permanencia laboral.
-- **Género (Gender).
+- **Genero (Gender):**
 - **Ingreso Mensual (Monthly Income):** Impacto del salario en la retención.
 - **Satisfacción en el Trabajo (Job Satisfaction):** Indicador del nivel de compromiso.
 - **Horas Extraordinarias (Overtime):** Relación con la carga laboral y el abandono.
