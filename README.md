@@ -54,9 +54,12 @@ El proyecto utiliza el archivo **"Employee Attrition Data.csv"**, disponible en 
 1. **Recolección de Datos:** Importación y limpieza del dataset.
 2. **Preprocesamiento:** Codificación de variables categóricas y transformación de datos.
 3. **Análisis Exploratorio (EDA):** Identificación de patrones y relaciones clave.
-4. **Entrenamiento de Modelos:** Desarrollo de **Regresión Logística** y **Random Forest**.
+4. **Desarrollo de Modelos:** Desarrollo de **Regresión Logística** y **Random Forest**.
 5. **Evaluación de Modelos:** Uso de métricas como precisión y curva ROC-AUC.
 6. **Implementación de Estrategias:** Identificación de empleados en riesgo y diseño de estrategias de retención.
+
+### 
+![Flujo de trabajo](images/flujo.jpg)
 
 ## Modelos Utilizados
 - **Regresión Logística:** Proporciona interpretabilidad y permite analizar la relación entre variables predictoras y rotación.
