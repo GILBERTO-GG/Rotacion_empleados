@@ -55,6 +55,12 @@ El proyecto utiliza el archivo **"Employee Attrition Data.csv"**, disponible en 
 - **Antigüedad (Years at Company):** Impacto del tiempo en la empresa.
 - **Estado Civil, Nivel Educativo, Dependientes, etc.:** Factores adicionales relevantes.
 
+### Hipótesis
+
+Factores como el salario mensual, la antigüedad en la empresa, el equilibrio trabajo-vida y la satisfacción laboral son determinantes clave para predecir la rotación de empleados.
+
+![Hipotesis](images/hipotesis.jpg)
+
 ## Flujo de Trabajo
 1. **Recolección de Datos:** Importación y limpieza del dataset.
 2. **Preprocesamiento:** Codificación de variables categóricas y transformación de datos.
@@ -62,12 +68,6 @@ El proyecto utiliza el archivo **"Employee Attrition Data.csv"**, disponible en 
 4. **Desarrollo de Modelos:** Desarrollo de **Regresión Logística** y **Random Forest**.
 5. **Evaluación de Modelos:** Uso de métricas como precisión y curva ROC-AUC.
 6. **Implementación de Estrategias:** Identificación de empleados en riesgo y diseño de estrategias de retención.
-
-### Hipótesis
-
-Factores como el salario mensual, la antigüedad en la empresa, el equilibrio trabajo-vida y la satisfacción laboral son determinantes clave para predecir la rotación de empleados.
-
-![Hipotesis](images/hipotesis.jpg)
 
 
 ### 
